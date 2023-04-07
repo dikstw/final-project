@@ -1,0 +1,20 @@
+html {
+    background-color:whitesmoke;
+}
+body {
+    background-color: whitesmoke;
+}
+nav {
+    text-decoration: solid;
+    text-transform: uppercase;
+    background-color:silver;
+    color: black;
+}
+footer {
+    background-color: silver;
+    color: black;
+}
+thead {
+    background-color:gray;
+    color: whitesmoke;
+}
